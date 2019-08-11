@@ -1,3 +1,3 @@
 # TicTacToe
 
-A simple tictactoc written in C
+A simple tictactoe written in C
